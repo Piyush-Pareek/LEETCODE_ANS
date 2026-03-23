@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0001-two-sum) |
+| [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
 ## Hash Table
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
