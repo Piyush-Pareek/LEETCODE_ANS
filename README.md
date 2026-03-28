@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0001-two-sum) |
 | [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
+| [3862-find-the-smallest-balanced-index](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0541-reverse-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3862-find-the-smallest-balanced-index](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3862-find-the-smallest-balanced-index) |
 <!---LeetCode Topics End-->
