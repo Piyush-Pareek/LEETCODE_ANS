@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-capacity-box">4240. Find the Smallest Balanced Index</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-smallest-balanced-index">4240. Find the Smallest Balanced Index</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>An index <code>i</code> is <strong>balanced</strong> if the sum of elements <strong>strictly</strong> to the left of <code>i</code> equals the product of elements <strong>strictly</strong> to the right of <code>i</code>.</p>
 
