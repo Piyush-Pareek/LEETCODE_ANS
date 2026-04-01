@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
+| [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
 | [3861-minimum-capacity-box](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3862-find-the-smallest-balanced-index) |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
+| [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
+| [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3862-find-the-smallest-balanced-index](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3862-find-the-smallest-balanced-index) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
