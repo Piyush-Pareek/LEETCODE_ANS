@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0162-find-peak-element) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0860-lemonade-change) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
