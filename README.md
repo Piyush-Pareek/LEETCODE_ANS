@@ -111,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0162-find-peak-element) |
+## Union-Find
+|  |
+| ------- |
+| [3887-incremental-even-weighted-cycle-queries](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3887-incremental-even-weighted-cycle-queries) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-incremental-even-weighted-cycle-queries](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3887-incremental-even-weighted-cycle-queries) |
 <!---LeetCode Topics End-->
