@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3861-minimum-capacity-box](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3861-minimum-capacity-box) |
