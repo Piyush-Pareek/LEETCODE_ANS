@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0310-minimum-height-trees) |
 | [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -119,5 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0310-minimum-height-trees) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3887-incremental-even-weighted-cycle-queries) |
+## Depth-First Search
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
