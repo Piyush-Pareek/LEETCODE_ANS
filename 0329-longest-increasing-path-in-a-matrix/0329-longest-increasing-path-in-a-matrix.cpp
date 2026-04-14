@@ -5,7 +5,6 @@ public:
         if(i<0||j<0||i>=matrix.size()||j>=matrix[i].size()||matrix[i][j]<=prev){
             return  0;
         } 
-        if(memo[i][j]!=-1) return memo[i][j];
         // 4 calls ;
        
         return memo[i][j] = max(dfs(matrix,i-1,j,len+1,matrix[i][j],memo),max(
