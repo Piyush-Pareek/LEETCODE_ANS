@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0006-zigzag-conversion) |
+| [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0541-reverse-string-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0605-can-place-flowers) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
