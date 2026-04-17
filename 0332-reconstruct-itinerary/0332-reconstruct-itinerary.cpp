@@ -8,7 +8,7 @@ void dfs(map<string,vector<string>>&m,string curr){
 
         return ;
     }   
-        cout<<count++<<" "<<curr<<endl;
+        
         auto temp = m[curr];
        while(m[curr].size()){
             string c = m[curr].back();
