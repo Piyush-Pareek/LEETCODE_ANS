@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0162-find-peak-element) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0605-can-place-flowers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
+| [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0541-reverse-string-ii) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -136,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
 ## Topological Sort
 |  |
@@ -152,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
