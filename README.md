@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0006-zigzag-conversion) |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0482-license-key-formatting) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0541-reverse-string-ii) |
 | [0942-di-string-match](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0942-di-string-match) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
