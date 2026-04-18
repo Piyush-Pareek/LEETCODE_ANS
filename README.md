@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0002-add-two-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
