@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0099-recover-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
@@ -166,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
