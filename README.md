@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0942-di-string-match) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
 ## Linked List
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3862-find-the-smallest-balanced-index) |
 ## Simulation
 |  |
