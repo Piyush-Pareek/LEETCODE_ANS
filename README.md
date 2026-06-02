@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
