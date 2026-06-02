@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
