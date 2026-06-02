@@ -10,23 +10,25 @@ public:
     //     int a = robhouse(dp,nums,x,i+1);
     //     return dp[x][i]= max(a,b);
     // }
-    int rob(vector<int>& nums) {
+  int rob(vector<int>& nums) {
         if(nums.size()==1) return nums[0];
-        vector<int>dp(nums.size()+2,-1);
+    
         int a=0,b=0;
-        dp[nums.size()] = 0;
-        dp[nums.size()+1]=0;
+        int x=0,y=0;
+        
         for(int i=nums.size()-1;i>0;i--){
-            dp[i] = max(dp[i+1],nums[i]+dp[i+2]);
+            int temp = max(x,nums[i]+y);
+            y = x;
+            x = temp;
         }
-        a = dp[1];
-        fill(dp.begin(),dp.end(),-1);
-        dp[nums.size()]=0;
-        dp[nums.size()-1]=0;
+        a = x;
+        x=0;y=0;
         for(int i = nums.size()-2;i>=0;i--){
-            dp[i] = max(dp[i+1],nums[i]+dp[i+2]);
+             int temp = max(x,nums[i]+y);
+            y = x;
+            x = temp;
         }
-        b = dp[0];
+        b = x;
         return max(a,b);
     }
 };
