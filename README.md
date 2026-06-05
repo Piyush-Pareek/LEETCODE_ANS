@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3783-mirror-distance-of-an-integer) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0213-house-robber-ii) |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0099-recover-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
