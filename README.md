@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3861-minimum-capacity-box](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3862-find-the-smallest-balanced-index) |
+| [3934-smallest-unique-subarray](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
+| [3934-smallest-unique-subarray](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0162-find-peak-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3934-smallest-unique-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -220,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0980-unique-paths-iii) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
