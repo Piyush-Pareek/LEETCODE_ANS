@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
+| [0980-unique-paths-iii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0063-unique-paths-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
+| [0980-unique-paths-iii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## String Matching
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
