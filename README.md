@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0396-rotate-function](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0396-rotate-function](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0746-min-cost-climbing-stairs) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
