@@ -1,16 +1,6 @@
 class Solution {
 public:
-bool solve(vector<int>& nums,vector<vector<int>>&dp,int i,int target){
-    if(i>=nums.size())return false;
-    if(target<0) return false;
-    if(target == 0) return true;
 
-    if(dp[i][target]!=-1) return dp[i][target];
-    bool a = solve(nums,dp,i+1,target-nums[i]);
-    bool b = solve(nums,dp,i+1,target);
-
-    return dp[i][target] =  a||b;
-}
     bool canPartition(vector<int>& nums) {
         int total = 0;
         for(int i=0;i<nums.size();i++){
@@ -18,7 +8,21 @@ bool solve(vector<int>& nums,vector<vector<int>>&dp,int i,int target){
         }
         if(total%2!=0) return false;
         int target =  total/2;
-        vector<vector<int>>dp(nums.size(),vector<int>(target+1,-1));
-        return solve(nums,dp,0,target);
+        vector<vector<int>>dp(nums.size()+1,vector<int>(target+1,0));
+    for(int i=0;i<=nums.size();i++){
+        dp[i][0] = 1;
+    }
+    for(int i=nums.size()-1;i>=0;i--){
+        for(int j = 0;j<=total/2;j++){
+            target = j;
+            bool a=0;
+            if(target-nums[i]>=0)
+             a = dp[i+1][target-nums[i]];
+            bool b = dp[i+1][target];
+            dp[i][j] = a||b;
+        }
+    }
+    return dp[0][total/2];
+
     }
 };
