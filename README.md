@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0994-rotting-oranges) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1049-last-stone-weight-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1049-last-stone-weight-ii) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1049-last-stone-weight-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
