@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3689-maximum-total-subarray-value-i) |
 | [3861-minimum-capacity-box](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3862-find-the-smallest-balanced-index) |
 | [3934-smallest-unique-subarray](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3934-smallest-unique-subarray) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3689-maximum-total-subarray-value-i) |
 ## Monotonic Stack
 |  |
 | ------- |
