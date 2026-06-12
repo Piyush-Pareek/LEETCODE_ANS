@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0605-can-place-flowers) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
+| [0474-ones-and-zeroes](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0482-license-key-formatting) |
 | [0541-reverse-string-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0796-rotate-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1049-last-stone-weight-ii) |
