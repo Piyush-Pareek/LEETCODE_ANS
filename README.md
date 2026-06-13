@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0942-di-string-match) |
+| [1143-longest-common-subsequence](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1143-longest-common-subsequence) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1143-longest-common-subsequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Binary Search
 |  |
