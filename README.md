@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0482-license-key-formatting) |
+| [0516-longest-palindromic-subsequence](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0541-reverse-string-ii) |
 | [0796-rotate-string](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0942-di-string-match) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1143-longest-common-subsequence) |
