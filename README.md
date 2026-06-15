@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0072-edit-distance) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0474-ones-and-zeroes) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0279-perfect-squares) |
