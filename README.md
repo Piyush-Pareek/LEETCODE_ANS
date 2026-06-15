@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0002-add-two-numbers) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0541-reverse-string-ii) |
 | [0942-di-string-match](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0942-di-string-match) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
