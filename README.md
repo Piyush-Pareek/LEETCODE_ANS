@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0942-di-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1143-longest-common-subsequence) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
+| [3612-process-string-with-special-operations-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3612-process-string-with-special-operations-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
+| [3612-process-string-with-special-operations-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
