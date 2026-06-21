@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1049-last-stone-weight-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1049-last-stone-weight-ii) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
+| [1732-find-the-highest-altitude](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2574-left-and-right-sum-differences) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3862-find-the-smallest-balanced-index) |
 ## Simulation
