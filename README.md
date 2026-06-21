@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0396-rotate-function) |
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
