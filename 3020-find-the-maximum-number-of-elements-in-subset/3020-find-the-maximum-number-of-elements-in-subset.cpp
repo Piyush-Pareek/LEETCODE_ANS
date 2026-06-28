@@ -8,9 +8,11 @@ public:
         }
         int size =0;
         int max_size=0;
-        sort(nums.begin(),nums.end());
+        // sort(nums.begin(),nums.end());
         for(int i =0;i<nums.size();i++){
-            if(m[nums[i]]==-1)continue;
+            if(m[nums[i]]<0){
+                continue;
+            }
             size=0;
             if(nums[i]==1){
                 size+=m[nums[i]];
@@ -20,6 +22,10 @@ public:
                 while(1){
                     if(m.find(x)==m.end()){
                         size--;
+                        break;
+                    }
+                    if(m[x]<0){
+                        size+=abs(m[x]+1);
                         break;
                     }
                 if(m[x]>=2){
@@ -38,7 +44,8 @@ public:
                 
                 }
             }
-                if(size%2!=0)
+
+                m[nums[i]] = -1-(size);
                 max_size = max(max_size,size);
         }
         return max_size;
