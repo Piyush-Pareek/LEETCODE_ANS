@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
 | [1732-find-the-highest-altitude](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2574-left-and-right-sum-differences) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3689-maximum-total-subarray-value-i) |
