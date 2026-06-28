@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
 | [1169-invalid-transactions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1169-invalid-transactions) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3934-smallest-unique-subarray](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1833-maximum-ice-cream-bars) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
