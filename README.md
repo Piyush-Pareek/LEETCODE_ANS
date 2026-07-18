@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0396-rotate-function) |
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
