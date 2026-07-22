@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0238-product-of-array-except-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0332-reconstruct-itinerary) |
 | [0377-combination-sum-iv](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0377-combination-sum-iv) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2574-left-and-right-sum-differences) |
