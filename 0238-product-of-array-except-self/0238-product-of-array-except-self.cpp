@@ -11,8 +11,6 @@ public:
         for(int i=nums.size()-1;i>=0;i--){
             if(i == 0){
                 out[i]=x;
-            }else if(i == nums.size()-1){
-                out[i] = out[i-1];
             }else
             out[i]= out[i-1]*x;
             x*=nums[i];
