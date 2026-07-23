@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3689-maximum-total-subarray-value-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0980-unique-paths-iii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Rolling Hash
 |  |
 | ------- |
