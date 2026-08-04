@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0605-can-place-flowers) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0486-predict-the-winner) |
 | [0976-largest-perimeter-triangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0976-largest-perimeter-triangle) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0746-min-cost-climbing-stairs) |
@@ -320,4 +324,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
