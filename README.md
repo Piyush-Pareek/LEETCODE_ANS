@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0064-minimum-path-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0054-spiral-matrix) |
 | [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
 | [3612-process-string-with-special-operations-i](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
