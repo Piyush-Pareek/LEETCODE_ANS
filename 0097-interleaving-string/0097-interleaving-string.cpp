@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool solve(string s1, string s2, string s3, int i, int j, int k, string comp, vector<int>& num1,vector<vector<int>>&dp) {
+    bool solve(string &s1, string &s2, string &s3, int i, int j, int k, string comp, vector<int>& num1,vector<vector<int>>&dp) {
         if (comp == s3) return true;
         if (i < s1.size() && j < s2.size() && s1[i] != s3[k] && s2[j] != s3[k]) {
             return false;
