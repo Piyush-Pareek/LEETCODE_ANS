@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0085-maximal-rectangle) |
 | [0162-find-peak-element](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0213-house-robber-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0417-pacific-atlantic-water-flow) |
 | [0980-unique-paths-iii](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0980-unique-paths-iii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/2751-robot-collisions) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0402-remove-k-digits) |
 ## Two Pointers
 |  |
@@ -225,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Piyush-Pareek/LEETCODE_ANS/tree/master/0115-distinct-subsequences) |
